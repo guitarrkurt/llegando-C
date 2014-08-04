@@ -12,7 +12,7 @@
 #import <Foundation/Foundation.h>
 int main(){
 	llegarC *nuevo = [[llegarC alloc] init];
-	nuevo.var = @" A =)";
+	nuevo.var = @" B :)";
 	NSLog(@"\nVamos en la version %@:", nuevo.var);
 return 0;
 }
